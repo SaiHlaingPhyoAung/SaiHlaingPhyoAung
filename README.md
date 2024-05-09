@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sai Hlaing Phyo Aung</h1>
-<h3 align="center">A passionate android developer from Myanmar</h3>
+<h3 align="center">A Passionate Android Developer</h3>
 <img align="right" alt="Coding width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd24yNGVqZnd5c2Zqcmg1aHVlOTN0bG5qdHQ3ZDgxcTduOGtya2I2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif">
 
 
